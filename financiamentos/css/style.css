@@ -1,0 +1,105 @@
+body {
+    background-color: #008347;
+    margin:100px;
+    margin-bottom:0px;
+
+}
+
+.alert-success{
+    margin-top: 150px;
+}
+
+.alert-cache{
+    margin-top: 10px;
+
+}
+
+.alert-danger{
+    margin-top: 120px;
+
+}
+
+.col-auto{
+    margin-top:-40px;
+}
+
+.form-control {
+    position: block;
+    
+    margin-top: 20px;
+    padding-right: 15px;
+    
+
+    
+}
+
+.col-auto {
+    padding: 13px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: none;
+}
+
+
+.botao-cadastrar {
+    
+    position: block;
+    margin-top: 90px;
+    margin-right: 25px;
+    margin-left: -15px;
+    
+}
+
+.botao-pesquisar,.me{
+    height: 38px;
+    margin-top: 8px;
+}
+
+.botao-inicio{
+    height: 38px;
+    margin-top: 0px;
+}
+
+
+.formulario{
+    
+    line-height:15px;
+    font-weight: bold;
+    position: block;
+    margin-right: -15px;
+    margin-left: 5px;
+    margin-top: 50px;
+    padding-right: 15px;
+    
+}
+
+.formulario-ativo{
+    
+    line-height:15px;
+    font-weight: bold;
+    position: block;
+    margin-right: 20px;
+    margin-left: -25px;
+    margin-top: 50px;
+    
+}
+
+
+
+
+.check-input {
+    position: block;
+    margin-top: 99px;
+    margin-right: 45px;
+    margin-left: -55px;
+    padding: 5px;
+    
+}
+
+
+.check-table{
+
+    margin-left: 35px;
+}
